@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-datas
 11. **Review Rating** - Rating given by the customer for the purchased item
 12. **Subscription Status** - Indicates if the customer has a subscription (Yes/No)
 13. **Shipping Type** - Type of shipping chosen by the customer
-14 .**Discount Applied** - Indicates if a discount was applied to the purchase (Yes/No)
+14. **Discount Applied** - Indicates if a discount was applied to the purchase (Yes/No)
 15. **Promo Code Used** - Indicates if a promo code was used for the purchase (Yes/No)
 16. **Previous Purchases** - The total count of transactions concluded by the customer at the store, excluding the ongoing transaction
 17. **Payment Method** - Customer's most preferred payment method
